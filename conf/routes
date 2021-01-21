@@ -1,0 +1,2 @@
+#posts
+GET     /api/posts     port.primary.webService.src.main.scala.postManagement.port.primary.webService.restAdapter.controller.post.PostController.list
